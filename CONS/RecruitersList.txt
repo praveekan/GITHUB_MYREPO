@@ -1,0 +1,42 @@
+Company			Consultant	Phone		Email
+===================================================================================
+Genovate Solutions	Devki Kumayun	6324 8024	devki@genovate.com
+GlobeSoft Pte Ltd.	Sudhir Nagpal	9100 9170	sudhir@globesoft.com.sg
+Innova Solutions	Vijay		6236 9492	vijay@innova-sg.com
+                        Swapna		9828 0656	swapna@innova-sg.com
+Apar Infotech		Balachandar	9145 1436	bala@apar.com
+Optimum Solutions	Suresh Kumar	6236 0486	suresh@theoptimum.net
+ComTel 			Vasu		6435 0320	comtel@starhub.net.sg
+Infinite Computer Sol.	Rajiv Nair	9017 6950	rajiv@infics.com.sg
+			Raghu		9436 5625	raghu@infics.com.sg
+EPS Computer Systems	Martin Elango	9382 4987	martin@eps.com.sg
+                        Shirley		6323 5240	shirley@eps.com.sg
+Suvin Technologies	Sateesh		6820 6126	sateesh@suvintech.com
+Techno Alliance		Aileen Lim	6273 3019	aileen@ta.com.sg
+IT Consultancy & Ser..	Jacqueline Tan	6291 8997	jactan@itcspl.com
+
+People Profilers	Matthew		6835 7889 	matthew@peopleprofilers.com
+Adecco			Conny Lim	6238 2063	conny.lim@adecco-asia.com
+PWC Consulting		Jeetendra Kumar	6586 9532	j.kumar@sg.pwcglobal.com
+A-IT Software Services	Karen		6226 1905	karen@aitsoftware.com
+Marc Software Pte Ltd.	Bagrudeen	6333 5465	bagu@marc-soft.com
+PPS Job			Vincent Goh	6336 2313	http://www.ppsjob.com.sg
+Zenith Infotech		Anil		6224 9404	anil@zenithinfotech.com.sg
+Tangspac Consulting	Tricia Lim	6224 4356	tricia@tangspac.com
+Semiko Recruitment	Belle		6846 2555	belle@semikorecruitment.com
+CSA Private Limited	Leona Loh	6213 7452	leonaloh@csah.com
+Select Business Serv.	Katherine	6533 2733	katherine@select-asia.com
+Nucleus Software	Lakshmi		6260 9507	lakshmi@nucleussoftware.com.sg
+SohanS			Srinivasan	6337 9338	hr@sohans.com
+MindTeck		Neelam Mishra	6225 4516	mindteck@singnet.com.sg
+Uni Connect		Hema		6325 1264	hema@uconnect.com.sg
+Rahmonic Resources	Joyce		6552 8885	joyce@rahmonic.com.sg
+
+RMA Consultants				6222 1143	sales@rmaconsultants.com.sg
+STS Consulting				6220 3887	sts_consulting@post1.com
+Stamford Consulting			6225 6967	acka@pacific.net.sg
+Acetech Manpower	Sharon Lim	6225 3373	email@acetech.net
+SolutionNET		Deepa		6324 4424	deepa@solutionnet.net
+PanAsia Resources	Ram		6323 2517	ram@panasiaresources.com.sg
+IT Works		Daniel		6391 1569	jobs@itworks.com.sg
+NESS Global		Ramesh				rameshmv@ness-gsg.com
